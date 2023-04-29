@@ -5,7 +5,7 @@ This Python script generates all possible variants of an email address by insert
 1. Clone or download this repository to your local machine.
 2. Install Python 3.x if you haven't already.
 3. Open a command prompt or terminal window in the repository directory.
-4. Run the script with the command python email_variants.py.
+4. Run the script with the command python gmailDotTrickGenerator.py.
 5. Enter an email address when prompted and press Enter.
 6. Wait for the script to finish generating variants and saving them to a file.
 7. Check the file variants.txt in the current directory for the generated variants.
